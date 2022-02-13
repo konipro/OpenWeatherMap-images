@@ -1,5 +1,5 @@
 
-# OpenWeatherMap-Image API
+# Weather-Images-API (For OpenWeatherMap)
 
 This "API" converts [weather codes](https://openweathermap.org/weather-conditions) from [OpenWeatherMap](https://openweathermap.org/) into images. This can be helpful if you use OpenWeatherMap and want to show your users suitable images for the current weather situation.
 
